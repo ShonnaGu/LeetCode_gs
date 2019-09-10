@@ -12,3 +12,6 @@ edit *nums* and *removeDuplicates* just return the length of array.
 exchange *val* and first *no-val*
 
 calculate the length: *no-val* + *exchange times*
+
+## 35. Search Insert Position
+search *target < n*
